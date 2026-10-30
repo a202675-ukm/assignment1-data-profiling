@@ -1,0 +1,16 @@
+field,data_type,pandas_nulls,missing_count,missing_percent,unique_nonmissing
+age,string,0,0,0.0,74
+workclass,string,0,2799,5.73,8
+fnlwgt,string,0,0,0.0,28523
+education,string,0,0,0.0,16
+education-num,string,0,0,0.0,16
+marital-status,string,0,0,0.0,7
+occupation,string,0,2809,5.75,14
+relationship,string,0,0,0.0,6
+race,string,0,0,0.0,5
+sex,string,0,0,0.0,2
+capital-gain,string,0,0,0.0,123
+capital-loss,string,0,0,0.0,99
+hours-per-week,string,0,0,0.0,96
+native-country,string,0,857,1.75,41
+income,string,0,0,0.0,4

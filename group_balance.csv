@@ -1,0 +1,10 @@
+field,category,count,percent
+sex,Male,32650,66.85
+sex,Female,16192,33.15
+race,White,41762,85.5
+race,Black,4685,9.59
+race,Asian-Pac-Islander,1519,3.11
+race,Amer-Indian-Eskimo,470,0.96
+race,Other,406,0.83
+income,<=50K,37155,76.07
+income,>50K,11687,23.93

@@ -1,0 +1,6 @@
+check,before,after,handling
+Missing cells,6465,0,Replace with Unknown and retain missingness flags
+Padded cells,683788,0,Strip leading and trailing whitespace
+Income categories,4,2,Remove the trailing period
+Numeric fields stored as text,6,0,Validate and convert to integers
+Records,48842,48842,Retain records with review flags

@@ -1,0 +1,5 @@
+field,IQR,lower_fence,upper_fence,flagged_count,flagged_percent
+age,20.0,-2.0,78.0,216,0.4422423324188199
+hours-per-week,5.0,32.5,52.5,13496,27.631956103353673
+capital-gain,0.0,0.0,0.0,4035,8.261332459768232
+capital-loss,0.0,0.0,0.0,2282,4.672208345276607
